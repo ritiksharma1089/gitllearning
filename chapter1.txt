@@ -9,3 +9,16 @@ from today i will put all os - git key in this page
 7--> git status --> show which file get change what action performed
 8--> clear   --> to clear terminal
 9  --> git add chapter1.txt --> to add chapter1 file
+10--> git commit -m "enter any message here"  --> you to commit file and save with message
+11--> git log --> to check what changes we save on git
+
+12--> git add . --> use to add all files
+
+13--> git diff chapter3.txt --> checking differnce in current and last save data of chpater 3
+14-->rm chapter2.html --> to remove chpater2 file
+
+15--> git checkout chpater3.txt --> it will restore all previous dataa 
+
+
+
+
