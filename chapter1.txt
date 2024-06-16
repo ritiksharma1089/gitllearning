@@ -1,0 +1,11 @@
+from today i will put all os - git key in this page 
+
+1--> mkdir -> create directiory
+2--> touch -> create file
+3--> cd    -> change directiory
+4 --> code filename with extension --> to open file 
+5--> git init --> to initialse empty git directiory
+6---> ls -a   --> to show all files
+7--> git status --> show which file get change what action performed
+8--> clear   --> to clear terminal
+9  --> git add chapter1.txt --> to add chapter1 file
