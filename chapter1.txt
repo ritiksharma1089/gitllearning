@@ -9,7 +9,7 @@ from today i will put all os - git key in this page
 7--> git status --> show which file get change what action performed
 8--> clear   --> to clear terminal
 9  --> git add chapter1.txt --> to add chapter1 file
-10--> git commit -m "enter any message here"  --> you to commit file and save with message
+10--> git commit chapter1.txt -m "enter any message here"  --> you to commit file and save with message
 11--> git log --> to check what changes we save on git
 
 12--> git add . --> use to add all files
@@ -19,6 +19,24 @@ from today i will put all os - git key in this page
 
 15--> git checkout chpater3.txt --> it will restore all previous dataa 
 
+16-->  git remote add origin https://github.com/ritiksharma1089/gitllearning.git --> use to set refrence with directiory
+
+
+17-->git branch -M main  // dont know but it is necessary after 16
+18--> git push -u origin main --> put your changes in git hub application 
+
+19--> git rm --cached -r .  --> to remove from added after added
+
+20--> git clone httpsjo bi url ho ---> to clone resporitry in our vs code
+
+
+21--> git branch ritikpart --> use to make new branch ritikpart is branch name
+22--> git branch --> use to check in which branch we are working
+ 
+
+ 23--> git checkout ritikbrach --> use to switch to ritikbrach 
+
+ 
 
 
 
